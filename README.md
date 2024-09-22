@@ -1,2 +1,2 @@
 # SA-Problems
-record problem met in SA homeworks
+A repo records problems met in SA homeworks
